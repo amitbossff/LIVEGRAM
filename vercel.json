@@ -1,0 +1,58 @@
+{
+  "functions": {
+    "api/index.js": {
+      "memory": 256,
+      "maxDuration": 10
+    }
+  },
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/api/index" }
+  ],
+  "env": {
+    "BOT1_TOKEN": "8606996677:AAHuzGmM4TaM02gqEzSE7SRLT665Bg9IadI",
+    "BOT1_OWNER": "6324186871",
+    "BOT1_NAME": "@livegramamit_bot",
+    "BOT2_TOKEN": "",
+    "BOT2_OWNER": "6324186871",
+    "BOT2_NAME": "@Shelby_02_bot",
+    "BOT3_TOKEN": "",
+    "BOT3_OWNER": "6324186871",
+    "BOT3_NAME": "@Shelby_3_bot",
+    "BOT4_TOKEN": "",
+    "BOT4_OWNER": "6324186871",
+    "BOT4_NAME": "@Shelby_04_bot",
+    "BOT5_TOKEN": "",
+    "BOT5_OWNER": "6324186871",
+    "BOT5_NAME": "@Shelby_05_bot",
+    "BOT6_TOKEN": "",
+    "BOT6_OWNER": "6324186871",
+    "BOT6_NAME": "@Shelby_06_bot",
+    "BOT7_TOKEN": "",
+    "BOT7_OWNER": "6324186871",
+    "BOT7_NAME": "@Shelby_7_bot",
+    "BOT8_TOKEN": "",
+    "BOT8_OWNER": "6324186871",
+    "BOT8_NAME": "@shelby_08_bot",
+    "BOT9_TOKEN": "",
+    "BOT9_OWNER": "6324186871",
+    "BOT9_NAME": "@shelby_09_bot",
+    "BOT10_TOKEN": "",
+    "BOT10_OWNER": "6324186871",
+    "BOT10_NAME": "@shelby_10_bot",
+    "BOT11_TOKEN": "",
+    "BOT11_OWNER": "6324186871",
+    "BOT11_NAME": "@shelby_11_bot",
+    "BOT12_TOKEN": "token12",
+    "BOT12_OWNER": "6324186871",
+    "BOT12_NAME": "@Bot12",
+    "BOT13_TOKEN": "token13",
+    "BOT13_OWNER": "6324186871",
+    "BOT13_NAME": "@Bot13",
+    "BOT14_TOKEN": "token14",
+    "BOT14_OWNER": "6324186871",
+    "BOT14_NAME": "@Bot14",
+    "BOT15_TOKEN": "token15",
+    "BOT15_OWNER": "6324186871",
+    "BOT15_NAME": "@Bot15"
+  }
+}
